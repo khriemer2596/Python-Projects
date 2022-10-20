@@ -23,4 +23,4 @@ There is a **decision-making** algorithm implemented for a player to choose a ce
 3. If one token can move and kick out an opponent token, then move that token
 4. Move the token that is further away from the finishing square
 
-For testing purposes, the program is passed in the roll numbers manually when the method is called.  There is no GUI for this project and all the output will be in the text format. 
+For testing purposes, the program is passed in the roll numbers manually when the method is called.  There is no GUI and all the output is in text format. 
