@@ -1,6 +1,5 @@
 # Author: Kevin Riemer
 # GitHub username: khriemer2596
-# Date: 8/1/2022
 # Description: Simulates a working Ludo Game
 
 
