@@ -1,6 +1,5 @@
 # Author: Kevin Riemer
 # GitHub username: khriemer2596
-# Date: 7/19/2022
 # Description: Function that shows how long the bubble sort and insertion sort
 #              algorithms take to run and plots it using matplotlib.
 
