@@ -1,6 +1,5 @@
 # Author: Kevin Riemer
 # GitHub username: khriemer2596
-# Date: 5/19/2022
 # Description: Creates 3 private classes. Movie contains movies and their information.
 #              StreamingService contains a dictionary of movies with the ability to
 #              add and remove movies. StreamingGuide tells the user what streaming
@@ -105,37 +104,3 @@ class StreamingGuide:
 
         else:
             print("None")
-
-
-#movie_1 = Movie('The Seventh Seal', 'comedy', 'Ingmar Bergman', 1957)
-#movie_2 = Movie('Home Alone', 'tragedy', 'Chris Columbus', 1990)
-#movie_3 = Movie('Little Women', 'action thriller', 'Greta Gerwig', 2019)
-#movie_4 = Movie('Galaxy Quest', 'historical documents', 'Dean Parisot', 1999)
-
-#stream_serv_1 = StreamingService('Netflick')
-#stream_serv_1.add_movie(movie_2)
-
-#stream_serv_2 = StreamingService('Hula')
-#stream_serv_2.add_movie(movie_1)
-#stream_serv_2.add_movie(movie_4)
-#stream_serv_2.delete_movie('The Seventh Seal')
-#stream_serv_2.add_movie(movie_2)
-
-#stream_serv_3 = StreamingService('Dizzy+')
-#stream_serv_3.add_movie(movie_4)
-#stream_serv_3.add_movie(movie_3)
-#stream_serv_3.add_movie(movie_1)
-
-#stream_guide = StreamingGuide()
-#stream_guide.add_streaming_service(stream_serv_1)
-#stream_guide.add_streaming_service(stream_serv_2)
-#stream_guide.add_streaming_service(stream_serv_3)
-#stream_guide.delete_streaming_service('Hula')
-#search_results = stream_guide.where_to_watch('Little Women')
-#print(search_results)
-
-
-
-
-
-
