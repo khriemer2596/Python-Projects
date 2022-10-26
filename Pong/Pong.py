@@ -1,3 +1,6 @@
+# Author: Kevin Riemer
+# GitHub: khriemer2596
+
 # Simple Pong 
 # uses turtle module
 
